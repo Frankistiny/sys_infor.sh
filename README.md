@@ -1,2 +1,2 @@
 # sys_infor.sh
-A Quick System Audit Script in Bash 
+Two Quick System Audit Script in Bash 
